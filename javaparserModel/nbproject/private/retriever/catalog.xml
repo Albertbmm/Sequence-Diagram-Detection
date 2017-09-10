@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://schema.omg.org/spec/UML/2.0" uri="schema.omg.org/spec/UML/2.0/index"/>
+    <system systemId="http://schema.omg.org/spec/XMI/2.1" uri="schema.omg.org/spec/XMI/2.1/index"/>
+</catalog>
